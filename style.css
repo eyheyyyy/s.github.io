@@ -1,0 +1,22 @@
+.vid{
+    text-align: center;
+    margin-left: 30px;
+}
+body{
+    background-image: url(bg.jpg);
+    background-size: cover;
+}
+.hlw{
+    margin-top: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(255, 89, 0);
+    font-weight:1000;
+    font-size: xx-large;
+}
+.text{
+    margin-top: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(255, 89, 0);
+    font-weight:1000;
+    margin-left: 20px;
+}
